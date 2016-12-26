@@ -5,7 +5,11 @@ from bs4 import BeautifulSoup
 import urllib.request
 
 chrome = webdriver.ChromeOptions()
-# replace below link with youtube playlist link
+
+
+                   # put playlist address below and remove given address
+
+
 link = 'https://www.youtube.com/playlist?list=PLZvdFvKxLm4aJAvv9TLGajO20ARHaVwfX'
 chrome.add_argument('--incognito')
 browser = webdriver.Chrome(executable_path='chromedriver',chrome_options=chrome)
