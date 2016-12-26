@@ -4,7 +4,7 @@
 
 <h4> Before run Script, give your playlist link in script in place of 'link'</h4>
 
-DwnlodPlaylist.py
+<span style="color:red;"> DwnlodPlaylist.py </span>
 >> Download youtube playlist all video. Press '1' to download all video in 720p and press '2' to choose between 720p and 360p
 
 DwnlodPlaylist2.py
