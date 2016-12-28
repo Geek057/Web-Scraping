@@ -1,6 +1,6 @@
 <h3>To execute the python script you should download chrome driver from below link and put in same directory in which Python Script exists</h3>
 >> link - https://chromedriver.storage.googleapis.com/2.27/chromedriver_win32.zip
-<h4> Scripts work in windowOS. you can choose any IDE of Python.if you know Python programming then you can change Scripts according to your condition</h4>
+<h4> Scripts work in windowOS. you can choose any IDE of Python.if you know Python programming then you can change Scripts according to your situation</h4>
 
 <h4> Before run Script, give your playlist link in script in place of 'link'</h4>
 
