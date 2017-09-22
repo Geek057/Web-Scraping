@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import smtplib
 import email
 from email.mime.text import MIMEText
