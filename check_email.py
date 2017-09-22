@@ -25,8 +25,9 @@ def check_email():
 
 if __name__=='__main__':
     while(1):
+      time.sleep(600)
       check_email()
-      time.sleep(1800)
+      time.sleep(1200)
 
 
 
