@@ -11,7 +11,10 @@ Download_song.py
 >>Download mp3 song from youtube
 
 notification.py
->> get quotes notification after certain second. 
+>> get quotes notification after certain second.
+
+check_email.py
+>> get new mail notification after every 30 minute
 
 
 
