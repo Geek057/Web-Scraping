@@ -16,5 +16,6 @@ notification.py
 check_email.py
 >> get new mail notification after every 30 minute, give the link of this script in /etc/rc.local file to get start when system bootup.
 
-
+IP_Info.py
+>> get info about IP Address.
 
