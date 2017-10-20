@@ -19,3 +19,6 @@ check_email.py
 IP_Info.py
 >> get info about IP Address.
 
+bing_wall.py
+>> Set bing wallpaper as desktop wallpaper daily
+
