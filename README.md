@@ -25,6 +25,6 @@ bing_wall.py
 movie_poster.py
 >> Download all movie poster which are in folder location
 
->>W3school_color
+W3school_color
 >> All color with color code ( W3school )
 
