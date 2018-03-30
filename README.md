@@ -22,3 +22,9 @@ IP_Info.py
 bing_wall.py
 >> Set bing wallpaper as desktop wallpaper daily
 
+movie_poster.py
+>> Download all movie poster which are in folder location
+
+>>W3school_color
+>> All color with color code ( W3school )
+
